@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/electron": "^1.6.10",
-    "@types/node": "^16.4.10",
+    "@types/node": "^16.4.13",
     "electron": "^13.1.8",
     "electron-packager": "^15.3.0",
     "prettier": "^2.3.2",
