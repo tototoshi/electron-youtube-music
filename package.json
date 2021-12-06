@@ -9,7 +9,7 @@
     "@types/node": "^16.11.10",
     "electron": "^16.0.2",
     "electron-packager": "^15.4.0",
-    "prettier": "^2.5.0",
+    "prettier": "^2.5.1",
     "typescript": "^4.5.2"
   }
 }
